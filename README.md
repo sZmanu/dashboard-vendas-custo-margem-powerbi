@@ -49,4 +49,4 @@ O objetivo principal é apoiar a tomada de decisão com base em dados financeiro
 ## 📷 Visualizações do Dashboard
 
 ### Visão Geral
-![Dashboard](imagens/dashboardGeral.png)
+![Dashboard](imagens/DashboardGeral.png)
